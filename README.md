@@ -14,7 +14,7 @@ This is a written tutorial on how to get started with Git- version controlling s
 **Don't Copy $ symbol it only inditcated the command should be run inside termilal.**
 ```sh
 $ git config --global user.name = "John"
-$ git config --global user.name = "example@gmail.com"
+$ git config --global user.email = "example@gmail.com"
 ```
 ### creating github account
 [Github](https://github.com/)
